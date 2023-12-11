@@ -9,3 +9,5 @@ Features
 1. Player-versus-Player Gameplay: Engage in a chess battle with a friend or colleague.
 2. Java-Based GUI: Developed using Java Swing for a responsive and user-friendly interface.
 3. Standard Game Rules: Follows the conventional rules of Chinese Chess.
+
+4. ![Uploading image.png…]()
