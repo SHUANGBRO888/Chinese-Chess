@@ -10,5 +10,5 @@ Features
 2. Java-Based GUI: Developed using Java Swing for a responsive and user-friendly interface.
 3. Standard Game Rules: Follows the conventional rules of Chinese Chess.
 
-4. ![image](https://github.com/SHUANGBRO888/Chinese-Chess/assets/110591410/08da9a62-d91f-41d7-8acb-1a50692864ca)
+![image](https://github.com/SHUANGBRO888/Chinese-Chess/assets/110591410/08da9a62-d91f-41d7-8acb-1a50692864ca)
 
